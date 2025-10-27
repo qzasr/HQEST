@@ -8,16 +8,16 @@ Follow these steps to set up the environment and run the project.
 
 bash
 conda env create -f environment.yaml -n HQEST
-bash
+
 
 2.  **Activate the environment**:
 bash
 conda activate HQEST
-bash
+
 
 3.  **train the model**:
 bash
 python main.py
-bash
+
 
    
